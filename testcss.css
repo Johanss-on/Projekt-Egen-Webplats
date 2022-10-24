@@ -43,3 +43,15 @@ nav ul {
 nav li{
     text-align: center;
 }
+
+.logo{
+    margin: 7px;
+}
+.grow{
+    display: block;
+    max-width: 90%;
+    height: auto;
+   margin: auto;
+}
+
+p{border: 1px solid black }
